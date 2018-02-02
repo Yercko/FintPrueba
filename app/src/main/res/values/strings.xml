@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FintonicPrueba</string>
+    <string name="profile">profile</string>
+    <string name="example_text">Example Text</string>
+    <string name="height">Height: </string>
+    <string name="power">Power</string>
+    <string name="abilities">Abilities</string>
+    <string name="groups">Groups</string>
+    <string name="title_detail">Activity Detail</string>
+</resources>
